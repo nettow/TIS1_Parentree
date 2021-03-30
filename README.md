@@ -1,4 +1,13 @@
 # Trabalho Interdisciplinar de Software - PARENTREE
+
+## TO DO
+
+# Login [ ]
+# Password recovery [ ]
+# Back-end [ ]
+# Database [ ]
+
+
 <strong>Tela inicial - Entrar ou cadastrar</strong><br>
 <br>
 <img src="https://github.com/Gabrielvsm/TIS1_Parentree/blob/master/imagens/tela1.png?raw=true"></img>
