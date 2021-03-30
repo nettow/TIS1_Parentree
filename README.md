@@ -1,10 +1,10 @@
 ## Trabalho Interdisciplinar de Software - PARENTREE
 
 # TO DO
- Login [ ]
- Password recovery [ ]
- Back-end [ ]
- Database [ ]
+ Login [ ]<br>  
+ Password recovery [ ]<br>
+ Back-end [ ]<br>
+ Database [ ]<br>
 
 
 <strong>Tela inicial - Entrar ou cadastrar</strong><br>
